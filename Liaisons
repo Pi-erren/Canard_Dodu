@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-29T10:46:23.350Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 OPR/96.0.0.0" etag="y-fc-fbpN2Vp1qk-lPs9" version="21.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-29T10:56:41.406Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 OPR/96.0.0.0" etag="3fiaW9eSaUiobp6xysrC" version="21.1.1" type="github">
   <diagram name="Page-1" id="c7558073-3199-34d8-9f00-42111426c3f3">
     <mxGraphModel dx="1682" dy="903" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" background="none" math="0" shadow="0">
       <root>
@@ -107,6 +107,9 @@
             <mxPoint x="445.6667277018232" y="830.3333333333335" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="GIo3Wl_CjKFjOpQw3DMa-136" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="GIo3Wl_CjKFjOpQw3DMa-125" target="GIo3Wl_CjKFjOpQw3DMa-135">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="GIo3Wl_CjKFjOpQw3DMa-125" value="Service comptabilité" style="whiteSpace=wrap;align=center;verticalAlign=middle;fontStyle=1;strokeWidth=3;fillColor=#FFFFCC" vertex="1" parent="1">
           <mxGeometry x="514" y="816" width="90" height="60" as="geometry" />
         </mxCell>
@@ -123,7 +126,7 @@
             <mxPoint x="269.66666666666674" y="760.9999898274741" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="GIo3Wl_CjKFjOpQw3DMa-130" value="&lt;p style=&quot;margin: 4px 0px 0px; text-decoration: underline;&quot;&gt;&lt;strong&gt;&lt;strong&gt;Process&lt;/strong&gt;&amp;nbsp;8&lt;br&gt;&lt;/strong&gt;&lt;/p&gt;&lt;hr&gt;Envoi des&amp;nbsp;&lt;br&gt;factures&amp;nbsp;&lt;br&gt;mensuellement&lt;br&gt;&lt;p style=&quot;margin: 0px; margin-left: 8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="verticalAlign=middle;align=center;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;rounded=1;fontStyle=1;strokeWidth=3;fillColor=#E6FFCC" vertex="1" parent="1">
+        <mxCell id="GIo3Wl_CjKFjOpQw3DMa-130" value="&lt;p style=&quot;margin: 4px 0px 0px; text-decoration: underline;&quot;&gt;&lt;strong&gt;&lt;strong&gt;Process&lt;/strong&gt;&amp;nbsp;8&lt;br&gt;&lt;/strong&gt;&lt;/p&gt;&lt;hr&gt;Envoi les&amp;nbsp;&lt;br&gt;factures&amp;nbsp;&lt;br&gt;&lt;i style=&quot;&quot;&gt;mensuellement&lt;/i&gt;&lt;br&gt;&lt;p style=&quot;margin: 0px; margin-left: 8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="verticalAlign=middle;align=center;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;rounded=1;fontStyle=1;strokeWidth=3;fillColor=#E6FFCC" vertex="1" parent="1">
           <mxGeometry x="333.9999999999999" y="786" width="110" height="90" as="geometry" />
         </mxCell>
         <mxCell id="GIo3Wl_CjKFjOpQw3DMa-133" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="GIo3Wl_CjKFjOpQw3DMa-132" target="GIo3Wl_CjKFjOpQw3DMa-125">
@@ -131,6 +134,39 @@
         </mxCell>
         <mxCell id="GIo3Wl_CjKFjOpQw3DMa-132" value="&lt;p style=&quot;margin: 4px 0px 0px; text-decoration: underline;&quot;&gt;&lt;strong&gt;&lt;strong&gt;Process&lt;/strong&gt;&amp;nbsp;9&lt;br&gt;&lt;/strong&gt;&lt;/p&gt;&lt;hr&gt;Envoie le double&lt;br&gt;des commandes&lt;br&gt;&lt;p style=&quot;margin: 0px; margin-left: 8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="verticalAlign=middle;align=center;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;rounded=1;fontStyle=1;strokeWidth=3;fillColor=#E6FFCC" vertex="1" parent="1">
           <mxGeometry x="333.9999999999999" y="903" width="110" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="GIo3Wl_CjKFjOpQw3DMa-147" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="GIo3Wl_CjKFjOpQw3DMa-134" target="GIo3Wl_CjKFjOpQw3DMa-145">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GIo3Wl_CjKFjOpQw3DMa-134" value="Cuisine de SQY" style="whiteSpace=wrap;align=center;verticalAlign=middle;fontStyle=1;strokeWidth=3;fillColor=#FFFFCC" vertex="1" parent="1">
+          <mxGeometry x="874" y="816" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GIo3Wl_CjKFjOpQw3DMa-137" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="GIo3Wl_CjKFjOpQw3DMa-135" target="GIo3Wl_CjKFjOpQw3DMa-134">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GIo3Wl_CjKFjOpQw3DMa-144" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="GIo3Wl_CjKFjOpQw3DMa-135" target="GIo3Wl_CjKFjOpQw3DMa-140">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GIo3Wl_CjKFjOpQw3DMa-152" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="GIo3Wl_CjKFjOpQw3DMa-135" target="GIo3Wl_CjKFjOpQw3DMa-99">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GIo3Wl_CjKFjOpQw3DMa-135" value="&lt;p style=&quot;margin: 4px 0px 0px; text-decoration: underline;&quot;&gt;&lt;strong&gt;&lt;strong&gt;Process&lt;/strong&gt;&amp;nbsp;10&lt;br&gt;&lt;/strong&gt;&lt;/p&gt;&lt;hr&gt;Envoi&lt;br&gt;informatique de&lt;br&gt;la facture&lt;br&gt;&lt;p style=&quot;margin: 0px; margin-left: 8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="verticalAlign=middle;align=center;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;rounded=1;fontStyle=1;strokeWidth=3;fillColor=#E6FFCC" vertex="1" parent="1">
+          <mxGeometry x="670.9999999999999" y="801" width="110" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="GIo3Wl_CjKFjOpQw3DMa-140" value="Service de facturation du client" style="whiteSpace=wrap;align=center;verticalAlign=middle;fontStyle=1;strokeWidth=3;fillColor=#FFFFCC" vertex="1" parent="1">
+          <mxGeometry x="874" y="939" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GIo3Wl_CjKFjOpQw3DMa-141" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;&lt;b style=&quot;&quot;&gt;[Si le client est une chaîne&lt;br&gt;&amp;nbsp;de restaurant]&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="676" y="982" width="156" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="GIo3Wl_CjKFjOpQw3DMa-148" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="GIo3Wl_CjKFjOpQw3DMa-145" target="GIo3Wl_CjKFjOpQw3DMa-99">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GIo3Wl_CjKFjOpQw3DMa-145" value="&lt;p style=&quot;margin: 4px 0px 0px; text-decoration: underline;&quot;&gt;&lt;strong&gt;&lt;strong&gt;Process&lt;/strong&gt;&amp;nbsp;11&lt;br&gt;&lt;/strong&gt;&lt;/p&gt;&lt;hr&gt;Prépare et&amp;nbsp;&lt;br&gt;envoie la&amp;nbsp;&lt;br&gt;commande&lt;br&gt;&lt;p style=&quot;margin: 0px; margin-left: 8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="verticalAlign=middle;align=center;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;rounded=1;fontStyle=1;strokeWidth=3;fillColor=#E6FFCC" vertex="1" parent="1">
+          <mxGeometry x="864.9999999999999" y="614" width="110" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="GIo3Wl_CjKFjOpQw3DMa-150" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;&lt;b style=&quot;&quot;&gt;[Si le client n&#39;est pas&lt;br&gt;&amp;nbsp;une chaîne &lt;br&gt;de restaurant]&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="631" y="621" width="126" height="56" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
