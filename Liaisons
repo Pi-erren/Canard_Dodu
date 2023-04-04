@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-04-04T16:45:59.889Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 OPR/96.0.0.0" etag="uLS9KzDzUafdV3l8TLBh" version="21.1.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-04T16:50:07.340Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 OPR/96.0.0.0" etag="I8GlGjL7adlM5Rn6AlNA" version="21.1.4" type="github">
   <diagram name="Page-1" id="c7558073-3199-34d8-9f00-42111426c3f3">
-    <mxGraphModel dx="2018" dy="1084" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1682" dy="903" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -70,6 +70,9 @@
         <mxCell id="iB3pXAu0BEHM5k9102bO-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="GIo3Wl_CjKFjOpQw3DMa-134" target="GIo3Wl_CjKFjOpQw3DMa-145" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="Tszp9gKurp1hqcgBGigH-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="GIo3Wl_CjKFjOpQw3DMa-134" target="Tszp9gKurp1hqcgBGigH-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="GIo3Wl_CjKFjOpQw3DMa-134" value="Cuisine de SQY" style="whiteSpace=wrap;align=center;verticalAlign=middle;fontStyle=1;strokeWidth=3;fillColor=#FFFFCC" parent="1" vertex="1">
           <mxGeometry x="902" y="855" width="90" height="60" as="geometry" />
         </mxCell>
@@ -129,6 +132,9 @@
         </mxCell>
         <mxCell id="sk9ITSGYVDSlI3nofRDW-15" value="&lt;p style=&quot;margin: 4px 0px 0px; text-decoration: underline;&quot;&gt;&lt;strong&gt;&lt;strong&gt;Process&lt;/strong&gt;&amp;nbsp;9&lt;br&gt;&lt;/strong&gt;&lt;/p&gt;&lt;hr&gt;Envoi du double&lt;br&gt;des commandes&lt;br&gt;&lt;p style=&quot;margin: 0px; margin-left: 8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="verticalAlign=middle;align=center;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;rounded=1;fontStyle=1;strokeWidth=3;fillColor=#E6FFCC" parent="1" vertex="1">
           <mxGeometry x="501.7499999999999" y="982" width="110" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="Tszp9gKurp1hqcgBGigH-19" value="&lt;p style=&quot;margin: 4px 0px 0px; text-decoration: underline;&quot;&gt;&lt;strong&gt;&lt;strong&gt;Process&lt;/strong&gt;&amp;nbsp;10&lt;br&gt;&lt;/strong&gt;&lt;/p&gt;&lt;hr&gt;Gère les stocks&lt;br&gt;de matières&amp;nbsp;&lt;br&gt;premières" style="verticalAlign=middle;align=center;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;rounded=1;fontStyle=1;strokeWidth=3;fillColor=#E6FFCC" vertex="1" parent="1">
+          <mxGeometry x="1033" y="972" width="110" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
