@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-04-04T16:54:06.124Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 OPR/96.0.0.0" etag="ndtjmAtukVkpeDY60cYr" version="21.1.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-04T16:55:50.586Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 OPR/96.0.0.0" etag="RyzGFcNE_GJU3wrur-LA" version="21.1.4" type="github">
   <diagram name="Page-1" id="c7558073-3199-34d8-9f00-42111426c3f3">
-    <mxGraphModel dx="4036" dy="2168" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1682" dy="903" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -92,7 +92,7 @@
           <mxGeometry x="874" y="987" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="GIo3Wl_CjKFjOpQw3DMa-141" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;&lt;b style=&quot;&quot;&gt;[Si le client est une chaîne&lt;br&gt;&amp;nbsp;de restaurant]&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="710" y="1033" width="156" height="42" as="geometry" />
+          <mxGeometry x="730" y="1042" width="156" height="42" as="geometry" />
         </mxCell>
         <mxCell id="iB3pXAu0BEHM5k9102bO-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="GIo3Wl_CjKFjOpQw3DMa-145" target="iB3pXAu0BEHM5k9102bO-16" edge="1">
           <mxGeometry relative="1" as="geometry" />
