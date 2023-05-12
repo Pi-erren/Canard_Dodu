@@ -1,13 +1,13 @@
-<mxfile host="app.diagrams.net" modified="2023-05-12T17:17:06.496Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="qmTO9dw751OZ_Z7fXA6p" version="21.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-12T20:07:17.853Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="kHvraiJ60sLEoE7rRQzJ" version="21.2.9" type="github">
   <diagram name="Page-1" id="nDQzdZv1TBgWWvl0m3wZ">
-    <mxGraphModel dx="2187" dy="714" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2261" dy="802" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="jZo9PoQ1amcl_aC38sDa-2" value="Equipe informatique" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-55" y="60" width="240" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="jZo9PoQ1amcl_aC38sDa-4" value="Site Internet&lt;br&gt;(WordPress)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="jZo9PoQ1amcl_aC38sDa-4" value="Site Internet&lt;br&gt;(WordPress)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="320" y="290" width="240" height="80" as="geometry" />
         </mxCell>
         <mxCell id="XUmkjMa75dJKsBYmsgqI-1" value="Base de données&lt;br&gt;(PostgreSQL)" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
