@@ -1,26 +1,26 @@
-<mxfile host="app.diagrams.net" modified="2023-05-07T13:42:32.311Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="NLcj5b2blmistjYOygHa" version="21.1.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-12T17:17:06.496Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="qmTO9dw751OZ_Z7fXA6p" version="21.2.9" type="github">
   <diagram name="Page-1" id="nDQzdZv1TBgWWvl0m3wZ">
-    <mxGraphModel dx="2187" dy="775" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2187" dy="714" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="jZo9PoQ1amcl_aC38sDa-2" value="Equipe informatique" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="jZo9PoQ1amcl_aC38sDa-2" value="Equipe informatique" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-55" y="60" width="240" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="jZo9PoQ1amcl_aC38sDa-3" value="Client" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="390" y="90" width="220" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="jZo9PoQ1amcl_aC38sDa-4" value="Site Internet&lt;br&gt;(WordPress)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="jZo9PoQ1amcl_aC38sDa-4" value="Site Internet&lt;br&gt;(WordPress)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="320" y="290" width="240" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="jZo9PoQ1amcl_aC38sDa-5" value="Base de donnée&lt;br&gt;(PosgreSQL)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="520" y="500" width="200" height="60" as="geometry" />
+        <mxCell id="XUmkjMa75dJKsBYmsgqI-1" value="Base de données&lt;br&gt;(PostgreSQL)" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="470" y="450" width="110" height="175" as="geometry" />
         </mxCell>
-        <mxCell id="jZo9PoQ1amcl_aC38sDa-6" value="Stockage Cloud&lt;br&gt;(Google Cloud Storage" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="130" y="500" width="260" height="60" as="geometry" />
+        <mxCell id="XUmkjMa75dJKsBYmsgqI-3" value="Stockage Cloud&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;(Google Cloud Storage)" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="304" y="450" width="110" height="175" as="geometry" />
         </mxCell>
-        <mxCell id="jZo9PoQ1amcl_aC38sDa-7" value="Employé Canard Dodu" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-100" y="320" width="270" height="60" as="geometry" />
+        <mxCell id="XUmkjMa75dJKsBYmsgqI-11" value="Enployé Canard Dodu" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="280" width="50" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="XUmkjMa75dJKsBYmsgqI-12" value="Client" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="415" y="60" width="50" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
