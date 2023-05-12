@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-12T08:29:38.585Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0" etag="pOX1d4JO0tLlzuvql3h-" version="21.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-12T08:31:25.749Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0" etag="tBzzPCOKxsQCn3a1G5EK" version="21.2.9" type="github">
   <diagram name="Page-1" id="9361dd3d-8414-5efd-6122-117bd74ce7a7">
     <mxGraphModel dx="1009" dy="542" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1.5" pageWidth="826" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -58,9 +58,9 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="k9glBtiEPbxpQbWcI5DI-114" value="(7) Payer et valider la commande" style="edgeStyle=none;verticalLabelPosition=top;verticalAlign=bottom;" parent="1" edge="1">
-          <mxGeometry x="2.5" y="300.5" width="100" height="100" as="geometry">
-            <mxPoint x="212.5" y="480" as="sourcePoint" />
-            <mxPoint x="522.5" y="480.5" as="targetPoint" />
+          <mxGeometry x="2.5" y="350.5" width="100" height="100" as="geometry">
+            <mxPoint x="212.5" y="530" as="sourcePoint" />
+            <mxPoint x="522.5" y="530.5" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
