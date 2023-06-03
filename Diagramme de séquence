@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-03T15:43:24.387Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0" etag="xUgxVIQwCt_LJVnr010F" version="21.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-03T15:44:40.567Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0" etag="2hshs7LhlnK3QnKk7ovy" version="21.2.9" type="github">
   <diagram name="Page-1" id="9361dd3d-8414-5efd-6122-117bd74ce7a7">
     <mxGraphModel dx="1009" dy="542" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1.5" pageWidth="826" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -84,7 +84,7 @@
             <mxPoint x="802.51" y="760" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="k9glBtiEPbxpQbWcI5DI-105" value="(5) Affichage des produits" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" edge="1">
+        <mxCell id="k9glBtiEPbxpQbWcI5DI-105" value="(5) Affichage de produits" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="522.5" y="409.5" as="sourcePoint" />
             <mxPoint x="207.5" y="409.5" as="targetPoint" />
@@ -189,7 +189,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="9Ni7zJLm8oSaZ1AwubIC-72" value="&lt;b&gt;IF : not stock&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="9Ni7zJLm8oSaZ1AwubIC-72" value="&lt;b&gt;IF : not (stock)&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="130" y="510" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="9Ni7zJLm8oSaZ1AwubIC-74" value="(10) Gestion des produits indisponibles " style="edgeStyle=none;verticalLabelPosition=top;verticalAlign=bottom;entryX=-0.075;entryY=0.125;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
