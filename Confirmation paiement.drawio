@@ -1,9 +1,74 @@
-<mxfile host="app.diagrams.net" modified="2023-06-17T19:44:13.308Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" version="21.4.0" etag="atJZ8QDLPqLiLYxChyc-" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-17T20:05:11.475Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="TihSfZy3qRYa93XIPBmW" version="21.4.0" type="github">
   <diagram name="Page-1" id="XvfUXPSYPOYYdrDfT5mj">
-    <mxGraphModel>
+    <mxGraphModel dx="1434" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="AduVwcm5PyKTmgRZN1dL-31" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;entryX=0.408;entryY=0.993;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="749.5" y="720" as="sourcePoint" />
+            <mxPoint x="749.5" y="220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AduVwcm5PyKTmgRZN1dL-1" value="&lt;u&gt;:Client&lt;/u&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AduVwcm5PyKTmgRZN1dL-2" value="&lt;u&gt;:Site Web&lt;/u&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AduVwcm5PyKTmgRZN1dL-4" value="Confirmation de paiement" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="90" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AduVwcm5PyKTmgRZN1dL-5" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;entryX=0.408;entryY=0.993;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="AduVwcm5PyKTmgRZN1dL-9" target="AduVwcm5PyKTmgRZN1dL-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="160" y="761.4285714285714" as="sourcePoint" />
+            <mxPoint x="480" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AduVwcm5PyKTmgRZN1dL-6" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;entryX=0.408;entryY=0.993;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="AduVwcm5PyKTmgRZN1dL-12">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="430.5" y="761.4285714285714" as="sourcePoint" />
+            <mxPoint x="429.5" y="220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AduVwcm5PyKTmgRZN1dL-8" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;entryX=0.408;entryY=0.993;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="AduVwcm5PyKTmgRZN1dL-9">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="160" y="761.4285714285714" as="sourcePoint" />
+            <mxPoint x="159" y="220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AduVwcm5PyKTmgRZN1dL-9" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="230" width="10" height="460" as="geometry" />
+        </mxCell>
+        <mxCell id="AduVwcm5PyKTmgRZN1dL-11" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;entryX=0.408;entryY=0.993;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="AduVwcm5PyKTmgRZN1dL-12">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="430.5" y="761.4285714285714" as="sourcePoint" />
+            <mxPoint x="429.5" y="220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AduVwcm5PyKTmgRZN1dL-12" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="425" y="230" width="10" height="460" as="geometry" />
+        </mxCell>
+        <mxCell id="AduVwcm5PyKTmgRZN1dL-25" value="&lt;u&gt;:Boîte mail&lt;/u&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="690" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AduVwcm5PyKTmgRZN1dL-28" value="1) Annonce paiement" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=0;exitX=1.3;exitY=0.02;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="AduVwcm5PyKTmgRZN1dL-12" target="AduVwcm5PyKTmgRZN1dL-30">
+          <mxGeometry x="0.5112" y="10" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="650" y="250" as="sourcePoint" />
+            <mxPoint x="720" y="270" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AduVwcm5PyKTmgRZN1dL-30" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="745" y="240" width="10" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="AduVwcm5PyKTmgRZN1dL-34" value="2) Affiche mail de confirmation dans al boîte de réception" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.135;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="AduVwcm5PyKTmgRZN1dL-9">
+          <mxGeometry x="-0.4593" y="-9" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="740" y="290" as="sourcePoint" />
+            <mxPoint x="180" y="295" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
