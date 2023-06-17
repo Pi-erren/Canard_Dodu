@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-17T20:05:42.790Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="ub32DmM6CjaB1FuCcTj0" version="21.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-17T20:06:15.027Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="-nM2GJ1w_ZL60_CnMLLB" version="21.4.0" type="github">
   <diagram name="Page-1" id="FK4kt72VOiubtQufLutG">
     <mxGraphModel dx="1434" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -13,7 +13,7 @@
         <mxCell id="iXSwT5H_rE35bHHJK52_-3" value="&lt;u&gt;:Système de base de données&lt;/u&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="630" y="160" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="iXSwT5H_rE35bHHJK52_-5" value="Mettre un commentaire" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="iXSwT5H_rE35bHHJK52_-5" value="Appliquer un filtre" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="30" y="90" width="170" height="20" as="geometry" />
         </mxCell>
         <mxCell id="iXSwT5H_rE35bHHJK52_-6" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;entryX=0.408;entryY=0.993;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="iXSwT5H_rE35bHHJK52_-9" target="iXSwT5H_rE35bHHJK52_-1" edge="1">
